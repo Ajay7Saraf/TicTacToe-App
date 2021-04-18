@@ -27,4 +27,4 @@ Here, Tic tac toe game is a app game built by Android studio:
 ### Demo:
 There are two easy ways to check this application out:
 * Since the app is developed in Android Studio, you can clone this app repository and import it into your Android Studio. Then either run it with an emulator or on an actual device (what I do). More information on how to do this is availabe [here](https://developer.android.com/tools/building/building-studio.html).
-* You can download the `apk` file [here](https://github.com/mtuan93/Tic-Tac-Toe-android/raw/master/app-debug.apk) and install it into your android device. Since this is an unregistered debug version, make sure that you enable `Unknown sources` in `Security` section of the phone.
+* You can download the `apk` file [here](https://github.com/Ajay7Saraf/TicTacToe-App/blob/main/tictactoe.apk) and install it into your android device. Since this is an unregistered debug version, make sure that you enable `Unknown sources` in `Security` section of the phone.
