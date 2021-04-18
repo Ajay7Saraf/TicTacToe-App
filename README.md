@@ -13,7 +13,7 @@ Here, Tic tac toe game is a app game built by Android studio:
 
 ## Demo App
 
-![]<img src="https://github.com/Ajay7Saraf/TicTacToe-App/blob/main/Sample.gif" width="400" height="790">
+<img src="https://github.com/Ajay7Saraf/TicTacToe-App/blob/main/Sample.gif" width="400" height="790">
 
 
 ### How the app works
