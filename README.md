@@ -18,7 +18,7 @@ Here, Tic tac toe game is a app game built by Android studio:
 
 ### How the app works
 
-* `MainMenuScreen`: associates with `main_menu.xml`, which is a menu screen that allows user to choose the type of game. It can either be one-player mode, two-player mode, or exit mode. Each mode is a `Button` that associates with an `onClick` event listener to either switch to `MainActivity` or exit the application.
+* `MainMenuScreen`: associates with `main_menu.xml`, which is a menu screen that allows user to choose the type of game. It can two-player mode, or exit mode. Each mode is a `Button` that associates with an `onClick` event listener to either switch to `MainActivity` or exit the application.
 
 * `TicTacToeGame` : represents for the entire game, including a 3x3 board - represented by an array of `char`, player one and player two, with a Random object to simulate the computer move if the game is in one-player mode. The class is responsible for each move in the game and a check if there is a winner.
 
