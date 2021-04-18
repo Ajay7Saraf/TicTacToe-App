@@ -13,4 +13,4 @@ Here, Tic tac toe game is a app game built by Android studio:
 
 ## Demo App
 
-![](sample.gif)
+![](Sample.gif)
