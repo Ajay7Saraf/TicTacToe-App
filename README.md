@@ -13,7 +13,7 @@ Here, Tic tac toe game is a app game built by Android studio:
 
 ## Demo App
 
-![](Sample.gif)
+![](Sample.gif =250*250)
 
 
 ### How the app works
