@@ -10,3 +10,7 @@ Here, Tic tac toe game is a app game built by Android studio:
 * Game finishes when find a winner.
 * Player can replay or capture to share score.
 * Reset Button.
+
+## Demo App
+
+![](sample.gif)
